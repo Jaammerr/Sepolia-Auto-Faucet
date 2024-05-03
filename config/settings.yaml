@@ -1,0 +1,8 @@
+threads: 5
+arb_rpc: https://arb1.arbitrum.io/rpc
+
+min_amount: 0.000001
+max_amount: 0.000002
+
+delay_before_start_min: 30
+delay_before_start_max: 60
